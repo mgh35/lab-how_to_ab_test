@@ -8,10 +8,11 @@ decorator==4.4.1
 defusedxml==0.6.0
 entrypoints==0.3
 h5py==2.10.0
--e git+git@github.com:mgh35/lab-how_to_ab_test.git@d121e94b9aa0174d1f979494053d06bdf573d078#egg=how_to_ab_test
+-e git+git@github.com:mgh35/lab-how_to_ab_test.git@146bb37e519633c3ee010fbdeee98fe16ae35aac#egg=how_to_ab_test
 ipykernel==5.1.4
 ipython==7.12.0
 ipython-genutils==0.2.0
+ipywidgets==7.5.1
 jedi==0.16.0
 Jinja2==2.11.1
 json5==0.9.1
@@ -58,4 +59,5 @@ tqdm==4.43.0
 traitlets==4.3.3
 wcwidth==0.1.8
 webencodings==0.5.1
+widgetsnbextension==3.5.1
 xarray==0.15.0

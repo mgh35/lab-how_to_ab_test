@@ -1,6 +1,7 @@
 #!/bin/bash
+set -e
 
-[ ! -d .venv ] && python -m venv .venv
+./make-env.sh
 source .venv/bin/activate
 pip install -r requirements.txt
 pip freeze > requirements-lock.txt

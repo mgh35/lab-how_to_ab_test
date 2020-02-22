@@ -5,7 +5,7 @@ if [ ! -e requirements-lock.txt ]; then
   ./lock.sh
 fi
 
-[ ! -d .venv ] && python -m venv .venv
+./make-env.sh
 source .venv/bin/activate
 pip install -r requirements-lock.txt
 

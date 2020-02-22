@@ -4,3 +4,4 @@ pandas
 pymc3
 scipy
 statsmodels
+tqdm

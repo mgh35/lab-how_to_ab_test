@@ -1,14 +1,13 @@
 arviz==0.6.1
 attrs==19.3.0
 backcall==0.1.0
-bleach==3.1.0
+bleach==3.1.1
 cftime==1.1.0
 cycler==0.10.0
 decorator==4.4.1
 defusedxml==0.6.0
 entrypoints==0.3
 h5py==2.10.0
--e git+git@github.com:mgh35/lab-how_to_ab_test.git@146bb37e519633c3ee010fbdeee98fe16ae35aac#egg=how_to_ab_test
 ipykernel==5.1.4
 ipython==7.12.0
 ipython-genutils==0.2.0
@@ -18,7 +17,7 @@ Jinja2==2.11.1
 json5==0.9.1
 jsonschema==3.2.0
 jupyter-client==5.3.4
-jupyter-core==4.6.2
+jupyter-core==4.6.3
 jupyterlab==1.2.6
 jupyterlab-server==1.0.6
 kiwisolver==1.1.0
@@ -50,7 +49,7 @@ pyzmq==18.1.1
 scipy==1.4.1
 Send2Trash==1.5.0
 six==1.14.0
-statsmodels==0.11.0
+statsmodels==0.11.1
 terminado==0.8.3
 testpath==0.4.4
 Theano==1.0.4

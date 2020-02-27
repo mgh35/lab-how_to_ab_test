@@ -58,4 +58,4 @@ def rejections(n, p1, p2, n_samples, alphas, *, exclude=None):
         r['alpha'] = alpha
         out = out.append(r, ignore_index=True)
 
-    return out
+    return out.melt(id_vars=['alpha'], var_name='test', value_name='rejections')

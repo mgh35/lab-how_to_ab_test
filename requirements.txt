@@ -1,5 +1,7 @@
-jupyterlab
 numpy
 pandas
+pymc3
 scipy
+seaborn
 statsmodels
+tqdm
